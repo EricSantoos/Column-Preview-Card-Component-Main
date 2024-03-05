@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/EricSantoos/Column-Preview-Card-Component-Main)
+- Live Site URL: [Add live site URL here](https://card-component-main-eric-santos.netlify.app)
 
 ### Built with
 
@@ -35,5 +35,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [MY Github](https://github.com/EricSantoos)
+- Frontend Mentor - [@EricSantoos](https://www.frontendmentor.io/profile/EricSantoos)
